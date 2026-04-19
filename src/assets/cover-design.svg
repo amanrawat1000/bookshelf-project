@@ -1,0 +1,15 @@
+<svg width="420" height="560" viewBox="0 0 420 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="560" rx="28" fill="#18181B"/>
+  <rect x="36" y="36" width="348" height="488" rx="24" fill="url(#paint0_linear)"/>
+  <circle cx="136" cy="160" r="78" fill="#F5D0FE" fill-opacity="0.85"/>
+  <circle cx="260" cy="222" r="96" fill="#8B5CF6" fill-opacity="0.4"/>
+  <text x="74" y="372" fill="#FAFAFA" font-family="Arial" font-size="30" font-weight="700">EVERYDAY</text>
+  <text x="74" y="410" fill="#F5D0FE" font-family="Arial" font-size="30" font-weight="700">DESIGN</text>
+  <text x="74" y="450" fill="#E9D5FF" font-family="Arial" font-size="18">Readable. Thoughtful. Practical.</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="50" y1="52" x2="344" y2="516" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B0764"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+</svg>

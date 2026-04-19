@@ -1,0 +1,15 @@
+<svg width="420" height="560" viewBox="0 0 420 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="560" rx="28" fill="#15131F"/>
+  <circle cx="320" cy="104" r="84" fill="#6D28D9" fill-opacity="0.45"/>
+  <rect x="38" y="44" width="344" height="472" rx="24" fill="url(#paint0_linear)"/>
+  <path d="M88 408C140.5 301.333 225.5 254.667 343 268" stroke="#C4B5FD" stroke-width="12" stroke-linecap="round"/>
+  <path d="M88 350C159.5 280.5 243 242 338 226" stroke="#8B5CF6" stroke-width="12" stroke-linecap="round"/>
+  <text x="74" y="128" fill="#F5F3FF" font-family="Arial" font-size="30" font-weight="700">ALGORITHMS</text>
+  <text x="74" y="168" fill="#DDD6FE" font-family="Arial" font-size="18">BookShelf Edition</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="62" y1="56" x2="384" y2="490" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#241C37"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="420" height="560" viewBox="0 0 420 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="560" rx="28" fill="#0B1120"/>
+  <rect x="36" y="36" width="348" height="488" rx="24" fill="url(#paint0_linear)"/>
+  <path d="M88 376C130 320 169 262 215 190C243 145 279 116 332 106" stroke="#A855F7" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="126" cy="322" r="16" fill="#E9D5FF"/>
+  <circle cx="204" cy="218" r="18" fill="#C4B5FD"/>
+  <circle cx="292" cy="132" r="14" fill="#DDD6FE"/>
+  <text x="74" y="430" fill="#F8FAFC" font-family="Arial" font-size="30" font-weight="700">DATA</text>
+  <text x="74" y="468" fill="#E2E8F0" font-family="Arial" font-size="18">Systems, patterns, and insight</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="62" y1="56" x2="372" y2="502" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </linearGradient>
+  </defs>
+</svg>
