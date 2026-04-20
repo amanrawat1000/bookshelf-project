@@ -19,6 +19,12 @@ A modern AI-inspired university library system built using React.
 
 ## ⚙️ How to Run
 
-```bash
+IN TERMINAL ->
+
 npm install
 npm start
+
+if 
+then again
+node server.js
+parallel another terminal -> npm start 
